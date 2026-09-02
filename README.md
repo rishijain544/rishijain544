@@ -17,6 +17,111 @@
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Featured+Projects" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [BrainGuard AI](https://github.com/rishijain544/BrainGuard-AI)
+**Deep Learning MRI Analysis & Clinical Diagnosis Platform**
+
+Ensemble of CNN + ResNet50 + Vision Transformer models diagnosing brain tumors from MRI scans, with Grad-CAM heatmaps and auto-generated clinical PDF reports.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-View_App-success?style=for-the-badge)](https://brain-guard-ai.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/rishijain544/BrainGuard-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [IntelliBank](https://github.com/rishijain544/IntelliBank)
+**AI-Powered Banking Platform**
+
+Full-stack simulated bank where XGBoost fraud detection (93% recall), credit scoring, and Isolation Forest anomaly detection are wired directly into real transfer/loan logic — not bolted on as a demo.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/rishijain544/IntelliBank)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [ExamPrepAI](https://github.com/rishijain544/ExamPrepAI_website)
+**AI-Powered Exam Preparation Platform**
+
+Turns any lecture PDF or whiteboard photo into MCQs, flashcards, and summaries in seconds using Google Gemini Vision, with progress tracking via Firebase.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-View_App-success?style=for-the-badge)](https://exam-prep-ai-website.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/rishijain544/ExamPrepAI_website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Model Hub Pro](https://github.com/rishijain544/ml_model)
+**Interactive ML Playground**
+
+Upload any CSV and train/compare Regression & Classification models on the fly — confusion matrices, ROC curves, feature importance, all in one Streamlit app.
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-View_App-success?style=for-the-badge)](https://mlmodel-gyaydbmuxrvkxpzfqcdw4v.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/rishijain544/ml_model)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [AI Resume Parser & Ranking System](https://github.com/rishijain544/ai_resume_parser-ranking_system)
+**Automated Resume Screening with NLP**
+
+Extracts candidate details from PDF/DOCX resumes and ranks them against a job description using Cosine Similarity, with skill-gap analysis and personalized feedback.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/rishijain544/ai_resume_parser-ranking_system)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**🔎 [View all repositories →](https://github.com/rishijain544?tab=repositories)**
+
+<br/><br/>
+
+*More projects being added regularly*
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🧠 About Me
 
 ```python
@@ -26,8 +131,6 @@ class RishiJain:
         self.location = "India 🇮🇳"
         self.role = "AI/ML Engineer & Python Developer"
         self.focus = ["Machine Learning", "Deep Learning", "Full-Stack Dev"]
-        self.currently_building = "BrainGuard-AI 🧠"
-        self.fun_fact = "I teach machines to think, then argue with them about bugs 🐛"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something intelligent!")
@@ -36,11 +139,11 @@ me = RishiJain()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **BrainGuard-AI** — an AI-powered project pushing into applied ML
-- 🌱 Exploring healthcare-tech + AI intersections (see `healthcare-saas-website`)
-- 💡 Interests: Machine Learning, NLP, Recommendation Systems, Text Classification
+- 🔭 Recently shipped **BrainGuard AI** — now building in fintech AI with **IntelliBank**
+- 🌱 Exploring the intersection of AI + real product workflows: healthcare, banking, EdTech, hiring
+- 💡 Interests: Machine Learning, NLP, Recommendation Systems, Explainable AI
 - 📫 Reach me at **rishijain30a@gmail.com**
-- ⚡ Fun fact: my repos range from spam classifiers to movie recommenders — I like teaching models to make judgment calls
+- ⚡ Fun fact: my repos range from spam classifiers to AI banking fraud engines — I like teaching models to make judgment calls
 
 ---
 
@@ -78,8 +181,6 @@ me.say_hi()
 
 </div>
 
-> These cards pull live data across **all of your public repositories** every time your profile loads — commits, PRs, issues, stars, and language breakdown all update automatically. Nothing here needs manual editing.
-
 ---
 
 ### 🧊 3D Contribution Graph
@@ -88,14 +189,12 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/rishijain544/rishijain544/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </div>
 
-> This is the "3D way" you asked for — a rotating 3D bar-chart version of your contribution calendar. It's **not live yet** because it needs a small one-time setup (GitHub can't auto-generate this the way it does the stats cards above). I've built the exact workflow file for it — see the **setup steps** at the bottom of this message.
-
 ---
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishijain544&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=rishijain544&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -108,29 +207,11 @@ me.say_hi()
 
 ---
 
-### 🚀 Projects
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=BrainGuard-AI&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=healthcare-saas-website&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=movie_recommendation_system&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=spam_text_classification&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=CodeAlpha_machinelearning-&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rishijain544&repo=python_project&theme=tokyonight&hide_border=true" width="48%"/>
-
-**[🔎 View all repositories →](https://github.com/rishijain544?tab=repositories)**
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-jain-837b75312/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishijain30a@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishijain544)
 
