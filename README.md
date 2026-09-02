@@ -190,19 +190,20 @@ me.say_hi()
 </div>
 
 ---
-### 🏆 Trophies
+### 📊 GitHub Overview & Top Languages
 
-<div align="center">
-  <img src="./trophy.svg" alt="Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishijain544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishijain544&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+</p>
 
 ---
 
-### 📈 Contribution Activity
+### 🌐 3D Contribution Activity
 
-<div align="center">
-  <img src="./activity-graph.svg" alt="Contribution Activity" width="90%" />
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
 ---
 
 <div align="center">
