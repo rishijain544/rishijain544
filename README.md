@@ -190,11 +190,10 @@ me.say_hi()
 </div>
 
 ---
-
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rishijain544/rishijain544/main/trophy.svg" />
+  <img src="./trophy.svg" alt="Trophies" />
 </div>
 
 ---
@@ -202,8 +201,9 @@ me.say_hi()
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rishijain544/rishijain544/main/activity-graph.svg" width="90%"/>
+  <img src="./activity-graph.svg" alt="Contribution Activity" width="90%" />
 </div>
+
 
 ---
 
