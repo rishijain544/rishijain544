@@ -190,19 +190,20 @@ me.say_hi()
 </div>
 
 ---
-### 📊 GitHub Overview & Top Languages
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishijain544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishijain544&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=rishijain544&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 3D Contribution Activity
+### 🛠️ Core Tech Stack & Tools
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,postgres,tensorflow,pytorch,docker,fastapi,git,vscode,linux&perline=5" alt="My Skills" />
+  </a>
 </p>
 ---
 
