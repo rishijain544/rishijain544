@@ -197,13 +197,10 @@ me.say_hi()
 </p>
 
 ---
-
-### 🛠️ Core Tech Stack & Tools
+### 💬 Daily Dev Inspiration
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,postgres,tensorflow,pytorch,docker,fastapi,git,vscode,linux&perline=5" alt="My Skills" />
-  </a>
+  <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Dev Quote" />
 </p>
 ---
 
