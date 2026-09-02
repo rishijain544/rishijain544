@@ -193,7 +193,7 @@ me.say_hi()
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="./trophy.svg" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rishijain544&theme=flat" alt="Trophies" />
 </div>
 
 ---
@@ -201,9 +201,8 @@ me.say_hi()
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="./activity-graph.svg" alt="Contribution Activity" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishijain544&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Activity" />
 </div>
-
 
 ---
 
