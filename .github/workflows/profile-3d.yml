@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Trophies & Activity Graph
 
 on:
   schedule:
@@ -12,16 +12,28 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-trophy-and-activity-graph
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: rishijain544
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: rishijain544
+          options: theme=tokyo-night&hide_border=true
+          output_path: activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then git push; fi
+          if git commit -m "update trophy & activity graph"; then git push; fi
